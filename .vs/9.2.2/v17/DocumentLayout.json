@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\9.2.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E13AB90F-8274-4048-8D7D-8CDD4675560E}|9.2.2\\9.2.2.vcxproj|C:\\Users\\USER\\source\\repos\\9.2.2\\9.2.2\\9.2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E13AB90F-8274-4048-8D7D-8CDD4675560E}|9.2.2\\9.2.2.vcxproj|solutionrelative:9.2.2\\9.2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D87D743-9450-450A-B1D1-1059A944CDE0}|UnitTest922\\UnitTest922.vcxproj|C:\\Users\\USER\\source\\repos\\9.2.2\\UnitTest922\\UnitTest922.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D87D743-9450-450A-B1D1-1059A944CDE0}|UnitTest922\\UnitTest922.vcxproj|solutionrelative:UnitTest922\\UnitTest922.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest922.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\9.2.2\\UnitTest922\\UnitTest922.cpp",
+              "RelativeDocumentMoniker": "UnitTest922\\UnitTest922.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\9.2.2\\UnitTest922\\UnitTest922.cpp",
+              "RelativeToolTip": "UnitTest922\\UnitTest922.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T22:01:23.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "9.2.2.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\9.2.2\\9.2.2\\9.2.2.cpp",
+              "RelativeDocumentMoniker": "9.2.2\\9.2.2.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\9.2.2\\9.2.2\\9.2.2.cpp",
+              "RelativeToolTip": "9.2.2\\9.2.2.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T21:55:48.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
